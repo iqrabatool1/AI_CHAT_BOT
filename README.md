@@ -38,5 +38,4 @@ Note: Ensure your .gitignore file includes .env. This prevents your credentials 
  Running the Application
 Once the setup is complete, start the backend server with:
 
-Bash
 npm start
